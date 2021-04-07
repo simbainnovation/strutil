@@ -1,5 +1,5 @@
 package strutil
 
-func random()string	  {
+func Random()string	  {
 	return "kk"
 }
